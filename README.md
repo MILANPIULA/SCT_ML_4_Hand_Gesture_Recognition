@@ -110,14 +110,3 @@ This project demonstrates how Convolutional Neural Networks can effectively clas
 
 ---
 
-## 👨‍💻 Author
-
-**Milan John**
-
-Final Year Electronics and Communication Engineering (ECE)
-
-Passionate about Machine Learning, Artificial Intelligence, and Embedded Systems.
-
----
-
-⭐ If you found this project useful, please consider giving it a Star.
