@@ -94,16 +94,6 @@ The CNN model successfully learned to classify hand gestures with high training 
 
 ---
 
-## 🎓 Internship Information
-
-**Internship:** Machine Learning Internship
-
-**Organization:** SkillCraft Technology
-
-**Task:** Task 4 – Hand Gesture Recognition using CNN
-
----
-
 ## 📌 Conclusion
 
 This project demonstrates how Convolutional Neural Networks can effectively classify hand gestures from images. It provides practical experience in image preprocessing, deep learning model development, training, evaluation, and model deployment concepts using TensorFlow and Keras.
